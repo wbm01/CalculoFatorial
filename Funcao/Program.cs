@@ -32,7 +32,7 @@
             }
             else
             {
-                return (valor * fat(valor-1));
+                return (valor * fat(valor-1)); //função recursiva
             }
         }
     }
